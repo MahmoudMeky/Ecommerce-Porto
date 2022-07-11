@@ -1,0 +1,14 @@
+.categories .item{
+    cursor: pointer;
+}
+
+.categories .item .text{
+    transition: .3s;
+    padding: 0;
+    height: unset;
+}
+
+.categories .item:hover .text{
+    background-color: black;
+    color: white;
+}
