@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ecommerce-Porto-Deployed/static/css/main.7b50d83a.css",
-    "main.js": "/Ecommerce-Porto-Deployed/static/js/main.c5f595e7.js",
-    "static/js/787.6074c9fb.chunk.js": "/Ecommerce-Porto-Deployed/static/js/787.6074c9fb.chunk.js",
-    "index.html": "/Ecommerce-Porto-Deployed/index.html",
-    "main.7b50d83a.css.map": "/Ecommerce-Porto-Deployed/static/css/main.7b50d83a.css.map",
-    "main.c5f595e7.js.map": "/Ecommerce-Porto-Deployed/static/js/main.c5f595e7.js.map",
-    "787.6074c9fb.chunk.js.map": "/Ecommerce-Porto-Deployed/static/js/787.6074c9fb.chunk.js.map"
+    "main.css": "/Ecommerce-Porto/static/css/main.7b50d83a.css",
+    "main.js": "/Ecommerce-Porto/static/js/main.df5587f6.js",
+    "static/js/787.6074c9fb.chunk.js": "/Ecommerce-Porto/static/js/787.6074c9fb.chunk.js",
+    "index.html": "/Ecommerce-Porto/index.html",
+    "main.7b50d83a.css.map": "/Ecommerce-Porto/static/css/main.7b50d83a.css.map",
+    "main.df5587f6.js.map": "/Ecommerce-Porto/static/js/main.df5587f6.js.map",
+    "787.6074c9fb.chunk.js.map": "/Ecommerce-Porto/static/js/787.6074c9fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b50d83a.css",
-    "static/js/main.c5f595e7.js"
+    "static/js/main.df5587f6.js"
   ]
 }
