@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ecommerce-Porto/static/css/main.7b50d83a.css",
-    "main.js": "/Ecommerce-Porto/static/js/main.879cc4aa.js",
+    "main.js": "/Ecommerce-Porto/static/js/main.e790a47a.js",
     "static/js/787.6074c9fb.chunk.js": "/Ecommerce-Porto/static/js/787.6074c9fb.chunk.js",
     "index.html": "/Ecommerce-Porto/index.html",
     "main.7b50d83a.css.map": "/Ecommerce-Porto/static/css/main.7b50d83a.css.map",
-    "main.879cc4aa.js.map": "/Ecommerce-Porto/static/js/main.879cc4aa.js.map",
+    "main.e790a47a.js.map": "/Ecommerce-Porto/static/js/main.e790a47a.js.map",
     "787.6074c9fb.chunk.js.map": "/Ecommerce-Porto/static/js/787.6074c9fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b50d83a.css",
-    "static/js/main.879cc4aa.js"
+    "static/js/main.e790a47a.js"
   ]
 }
